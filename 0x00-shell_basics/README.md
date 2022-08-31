@@ -2,4 +2,5 @@
 1-listit Displays the contents of the current directory
 2-bring_me_home changes the working directory to user's home directory
 3-listfiles Displays current directory contents in a long format
-$-listmorefiles Dispays current directory content including hidden files
+4-listmorefiles Dispays current directory content including hidden files
+5-Listfiledigitonly Displays current directory contents as long format with user and group IDS displayed numerically and hidden files
