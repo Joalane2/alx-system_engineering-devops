@@ -5,5 +5,4 @@
 4-lastline Displays the last ten lines in a file
 5-firstlines Displays the first 10 Lines of the file
 6-third_line Displays the 3rd line in a file
-
-  
+7-files creates the file and writes in it 
