@@ -3,3 +3,4 @@
 2-path add action to the path
 3-paths reads the number of directories in a path
 4-global_variables displays global variables
+5-local_variables displays local,environment and functions 
